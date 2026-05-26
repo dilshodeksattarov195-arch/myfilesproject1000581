@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartuetch",
+        "uuid": 2121231,
+        "checksum": "0n9t3w"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
